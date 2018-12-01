@@ -1,4 +1,4 @@
-package go-area
+package goarea
 
 import (
 	"math"
